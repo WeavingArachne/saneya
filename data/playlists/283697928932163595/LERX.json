@@ -1,0 +1,54 @@
+{
+  "name": "LERX",
+  "createdAt": "2025-04-06T15:04:12.810Z",
+  "tracks": [
+    {
+      "title": "Chelsea Cutler - Your Shirt",
+      "author": "IndieAir",
+      "uri": "https://www.youtube.com/watch?v=6c9vKWqiy8k",
+      "thumbnail": "https://img.youtube.com/vi/6c9vKWqiy8k/hqdefault.jpg",
+      "length": 233000,
+      "source": "youtube"
+    },
+    {
+      "title": "better off",
+      "author": "Jeremy Zucker",
+      "uri": "https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273455cc3060b25c1f0015269fe",
+      "length": 193946,
+      "source": "spotify"
+    },
+    {
+      "title": "Men On The Moon",
+      "author": "Chelsea Cutler",
+      "uri": "https://open.spotify.com/track/164LL9rTyEZ6DF0KMgXxsJ",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273383878e717984a63fadda4d4",
+      "length": 220798,
+      "source": "spotify"
+    },
+    {
+      "title": "Can't Get You out Of My Head",
+      "author": "Glimmer of Blooms",
+      "uri": "https://open.spotify.com/track/5txWBmYDYOXulUabyQvsU3",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2732dab42c7e04b13d6798ec1f9",
+      "length": 200437,
+      "source": "spotify"
+    },
+    {
+      "title": "Taste",
+      "author": "Ari Abdul",
+      "uri": "https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b2734023d38f26be871ce318db71",
+      "length": 186600,
+      "source": "spotify"
+    },
+    {
+      "title": "Music To Watch Boys To",
+      "author": "Lana Del Rey",
+      "uri": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J",
+      "thumbnail": "https://i.scdn.co/image/ab67616d0000b273a3b3f48ca81acacb3ad4ec8a",
+      "length": 290625,
+      "source": "spotify"
+    }
+  ]
+}

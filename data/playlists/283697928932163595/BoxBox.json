@@ -1,0 +1,54 @@
+{
+  "name": "BoxBox",
+  "createdAt": "2025-04-05T10:37:28.736Z",
+  "tracks": [
+    {
+      "title": "Nightcore - Windows Down",
+      "author": "NightcoreReality",
+      "uri": "https://www.youtube.com/watch?v=YlomIQF2zbI",
+      "thumbnail": "https://img.youtube.com/vi/YlomIQF2zbI/hqdefault.jpg",
+      "length": 157000,
+      "source": "youtube"
+    },
+    {
+      "title": "Nightcore - Angel With A Shotgun",
+      "author": "CUTLoveRx",
+      "uri": "https://www.youtube.com/watch?v=cvaIgq5j2Q8",
+      "thumbnail": "https://img.youtube.com/vi/cvaIgq5j2Q8/hqdefault.jpg",
+      "length": 193000,
+      "source": "youtube"
+    },
+    {
+      "title": "Nightcore - How To Be A Heartbreaker",
+      "author": "NightcoreReality",
+      "uri": "https://www.youtube.com/watch?v=O6NvsM49N6w",
+      "thumbnail": "https://img.youtube.com/vi/O6NvsM49N6w/hqdefault.jpg",
+      "length": 189000,
+      "source": "youtube"
+    },
+    {
+      "title": "Nightcore - Windows Down",
+      "author": "NightcoreReality",
+      "uri": "https://www.youtube.com/watch?v=YlomIQF2zbI",
+      "thumbnail": "https://img.youtube.com/vi/YlomIQF2zbI/hqdefault.jpg",
+      "length": 157000,
+      "source": "youtube"
+    },
+    {
+      "title": "Nightcore - How To Be A Heartbreaker",
+      "author": "NightcoreReality",
+      "uri": "https://www.youtube.com/watch?v=O6NvsM49N6w",
+      "thumbnail": "https://img.youtube.com/vi/O6NvsM49N6w/hqdefault.jpg",
+      "length": 189000,
+      "source": "youtube"
+    },
+    {
+      "title": "Shaggy - I Need Your Love (Official Video) ft. Mohombi, Faydee, Costi",
+      "author": "shaggymedia",
+      "uri": "https://www.youtube.com/watch?v=3Z2ZqNckxHE",
+      "thumbnail": "https://img.youtube.com/vi/3Z2ZqNckxHE/hqdefault.jpg",
+      "length": 237000,
+      "source": "youtube"
+    }
+  ]
+}
